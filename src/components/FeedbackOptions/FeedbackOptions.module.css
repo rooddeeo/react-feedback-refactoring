@@ -1,0 +1,11 @@
+.btn {
+  width: 100px;
+  height: 30px;
+  margin-right: 5px;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-style: italic;
+  font-weight: 600;
+}

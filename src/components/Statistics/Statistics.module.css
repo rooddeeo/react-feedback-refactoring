@@ -1,0 +1,20 @@
+.good{
+color: green;
+font-weight: 600;
+}
+
+.neutral{
+color: orange;
+font-weight: 600;
+}
+
+.bad{
+color: red;
+font-weight: 600;
+}
+
+.positiveFeedback{
+color: green;
+font-weight: 800;
+font-size: 20px;
+}
